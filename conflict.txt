@@ -1,1 +1,1 @@
-Feature 1 change
+feature1 and feature2 merged successfully 
